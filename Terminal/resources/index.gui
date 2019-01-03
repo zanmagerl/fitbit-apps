@@ -1,0 +1,14 @@
+<svg class="background">
+  <text id="timeInstructionI" />
+  <text id="timeInstructionII" />
+  <text id="myLabel" />
+  <text id="dateInstructionI" />
+  <text id="dateInstructionII" />
+  <text id="dateData" />
+  <text id="stepsInstructionI" />
+  <text id="stepsInstructionII" />
+  <text id="stepsData" />
+  <text id="heartInstructionI" />
+  <text id="heartInstructionII" />
+  <text id="heartData" />
+</svg>

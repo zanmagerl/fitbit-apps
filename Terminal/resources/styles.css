@@ -1,0 +1,111 @@
+.background {
+  viewport-fill: black;
+}
+
+
+
+#timeInstructionI {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 0%+40;
+  fill: #00ff00;
+}
+
+
+#timeInstructionII {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 64%;
+  y: 0%+40;
+  fill: white;
+}
+#myLabel {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 10%+40;
+  fill: white;
+}
+#dateInstructionI {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 20%+40;
+  fill: #00ff00;
+}
+#dateInstructionII {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 64%;
+  y: 20%+40;
+  fill: white;
+}
+#dateData {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 30%+40;
+  fill: white;
+}
+
+
+#stepsInstructionI {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 40%+40;
+  fill: #00ff00;
+}
+#stepsInstructionII {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 65%;
+  y: 40%+40;
+  fill: white;
+}
+#stepsData{
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 50%+40;
+  fill: white;
+}
+
+#heartInstructionI {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 60%+40;
+  fill: #00ff00;
+}
+#heartInstructionII {
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 65%;
+  y: 60%+40;
+  fill: white;
+}
+#heartData{
+  font-size: 25;
+  font-family: System-Bold;
+  text-length: 32;
+  x: 5%;
+  y: 70%+40;
+  fill: white;
+}
+
+
+
+
